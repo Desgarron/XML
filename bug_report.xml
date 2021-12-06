@@ -1,0 +1,6 @@
+<xml>
+  <id>1</id>
+  <title>The payment Visa don't work in the window of payment when make a order</title>
+  <Expected_result>The payment Visa is work</Expected_result>
+  <Actual_result>The payment Visa is not work</Actual_result>
+</xml>
